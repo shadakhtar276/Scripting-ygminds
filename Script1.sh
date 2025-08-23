@@ -6,4 +6,4 @@ echo "I am learning DevOps"
 echo "I am working on branch-1"
 echo "commit code"
 echo "this is branch 1 modification"
-this is new commit
+this is new commit thsi is new change
